@@ -1,0 +1,8 @@
+
+*.swp
+*.iml
+*.xml
+*.pyc
+static/.DS_Store
+*.db
+.DS_Store
