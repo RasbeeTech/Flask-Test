@@ -17,7 +17,7 @@ The tutorial on [www.digitalocean.com](https://www.digitalocean.com/community/tu
 ```bash
 python3 init_db.py
 ```
-which will create 'database.db' in the directory.  The database will contain 'posts' for the blog and will be initialized with 2 posts.  
+* which will create 'database.db' in the directory.  The database will contain 'posts' for the blog and will be initialized with 2 posts.  
 
 2. In terminal, navigate to directory of app.py and enter:  
 ```bash
